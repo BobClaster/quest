@@ -1,0 +1,45 @@
+body {
+    background: url('/static/img/bg.jpg');
+    height: 100%;
+    background-attachment: fixed;
+}
+
+.center-block {
+    height: 100%;
+    margin: 10% auto;
+}
+
+input, button {
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 7px;
+}
+
+form {
+    background: rgba(255, 255, 255, 0.85);
+    padding: 10px;
+    border-radius: 7px;
+}
+
+.partners {
+    margin-top: 20px;
+}
+
+.block-bg {
+    background: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 7px;
+}
+
+.title-1 {
+    text-align: center;
+    color: #ddd;
+    text-shadow: red 0 0 10px;
+}
+
+.title-2 {
+    text-align: center;
+    font-size: 70px;
+    color: whitesmoke;
+    text-shadow: black 0 0 20px;
+}
